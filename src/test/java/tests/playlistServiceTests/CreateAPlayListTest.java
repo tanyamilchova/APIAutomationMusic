@@ -4,7 +4,6 @@ import com.example.model.PlayList;
 import com.example.util.TestDataReader;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.BeforeEach;
-import org.testng.annotations.BeforeMethod;
 import org.junit.jupiter.api.Test;
 import service.PlaylistService;
 import service.UserService;

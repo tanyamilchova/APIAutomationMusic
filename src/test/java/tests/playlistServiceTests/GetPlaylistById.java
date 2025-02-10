@@ -3,7 +3,6 @@ package tests.playlistServiceTests;
 import com.example.model.PlayList;
 import com.example.util.Util;
 import org.junit.jupiter.api.BeforeEach;
-import org.testng.annotations.BeforeMethod;
 import org.junit.jupiter.api.Test;
 import service.PlaylistService;
 import service.UserService;
